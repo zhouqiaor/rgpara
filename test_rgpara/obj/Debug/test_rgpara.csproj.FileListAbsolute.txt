@@ -1,0 +1,8 @@
+d:\documents\visual studio 2013\Projects\test_rgpara\test_rgpara\bin\Debug\test_rgpara.exe.config
+d:\documents\visual studio 2013\Projects\test_rgpara\test_rgpara\bin\Debug\test_rgpara.exe
+d:\documents\visual studio 2013\Projects\test_rgpara\test_rgpara\bin\Debug\test_rgpara.pdb
+d:\documents\visual studio 2013\Projects\test_rgpara\test_rgpara\bin\Debug\MathNet.Numerics.dll
+d:\documents\visual studio 2013\Projects\test_rgpara\test_rgpara\bin\Debug\MathNet.Numerics.xml
+d:\documents\visual studio 2013\Projects\test_rgpara\test_rgpara\obj\Debug\test_rgpara.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2013\Projects\test_rgpara\test_rgpara\obj\Debug\test_rgpara.exe
+d:\documents\visual studio 2013\Projects\test_rgpara\test_rgpara\obj\Debug\test_rgpara.pdb
